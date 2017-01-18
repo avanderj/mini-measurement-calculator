@@ -1,0 +1,12 @@
+c:\users\anna\documents\visual studio 2015\Projects\week2pt2\week2pt2\bin\Debug\week2pt2.exe.config
+C:\Users\anna\Documents\Visual Studio 2015\Projects\week2pt2\week2pt2\bin\Debug\week2pt2.exe
+C:\Users\anna\Documents\Visual Studio 2015\Projects\week2pt2\week2pt2\bin\Debug\week2pt2.pdb
+C:\Users\anna\Documents\Visual Studio 2015\Projects\week2pt2\week2pt2\obj\Debug\week2pt2.Form1.resources
+C:\Users\anna\Documents\Visual Studio 2015\Projects\week2pt2\week2pt2\obj\Debug\week2pt2.Properties.Resources.resources
+C:\Users\anna\Documents\Visual Studio 2015\Projects\week2pt2\week2pt2\obj\Debug\week2pt2.csproj.GenerateResource.Cache
+C:\Users\anna\Documents\Visual Studio 2015\Projects\week2pt2\week2pt2\obj\Debug\week2pt2.exe
+C:\Users\anna\Documents\Visual Studio 2015\Projects\week2pt2\week2pt2\obj\Debug\week2pt2.pdb
+C:\Users\anna\Documents\Visual Studio 2015\Projects\week2pt2\week2pt2\obj\Debug\week2pt2.csprojResolveAssemblyReference.cache
+C:\Users\anna\Documents\testtttt\bin\Debug\week2pt2.exe.config
+C:\Users\anna\Documents\testtttt\obj\Debug\week2pt2.exe
+C:\Users\anna\Documents\testtttt\obj\Debug\week2pt2.pdb
