@@ -1,4 +1,5 @@
 # mini-measurement-calculator
+Converts meters to feet
 ---
 * Download and extract .zip
 * Open folder in Visual Studio
